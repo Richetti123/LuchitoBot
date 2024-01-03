@@ -179,6 +179,17 @@ ${readMore}
 ┃🎡➺ _${usedPrefix}tictactoe | ttt *sala*_
 ┃🎡➺ _${usedPrefix}deltictactoe | delttt_
 ┃🎡➺ _${usedPrefix}topgays_
+┃🎡➺ _${usedPrefix}topnosebañan_
+┃🎡➺ _${usedPrefix}topfieles_
+┃🎡➺ _${usedPrefix}topinfieles_
+┃🎡➺ _${usedPrefix}topratas_
+┃🎡➺ _${usedPrefix}topmentirosos_
+┃🎡➺ _${usedPrefix}topenojones_
+┃🎡➺ _${usedPrefix}topfeos_
+┃🎡➺ _${usedPrefix}toppros_
+┃🎡➺ _${usedPrefix}topnohablan_
+┃🎡➺ _${usedPrefix}topllorones_
+┃🎡➺ _${usedPrefix}topflojos_
 ┃🎡➺ _${usedPrefix}topotakus_
 ┃🎡➺ _${usedPrefix}toppajer@s_
 ┃🎡➺ _${usedPrefix}topput@s_
